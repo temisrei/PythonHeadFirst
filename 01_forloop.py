@@ -5,4 +5,4 @@ import nester
 
 # casts = ['Palin','Cleese','Idle','Jones','Gilliam','Chapman']
 casts = ['John','Eric',['Cleese','Idle'], 'Michael', ['Palin']]
-nester.print_lol(casts)
+nester.print_lol(casts, True, 4)

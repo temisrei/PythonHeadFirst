@@ -3,7 +3,7 @@
 練習建立模組並上傳至 PyPI。
 """
 
-def print_lol(the_list, level):
+def print_lol(the_list, level=0):
   """
   需傳入 清單 list，名稱為 the_list 
   """
